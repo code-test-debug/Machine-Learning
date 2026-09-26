@@ -1,0 +1,14 @@
+Concept of linear regression in terms of pratical/coding approach:
+1. We've x as datapoint as y as predicted variable we need to y predicted (y)
+
+2. At first we've to draw the x and y axis
+3. Then we will point out all the coordinates of x and y by scatter plot
+4. Then we'll create a best fit line which will be going through the middle of all the points
+5. Then when the prediction will be asked for this value x then we draw a straight line vertically
+ from x to the point of the best fit line and accly predict the (y) value 
+ 
+6. Refer Upto (half of Page3) of Lecture_2.txt for theory and problem
+
+
+Slope: If i'm changing x then how much y is changing respected to x
+InterCept: From which point the y is started
