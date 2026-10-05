@@ -12,3 +12,12 @@ Concept of linear regression in terms of pratical/coding approach:
 
 Slope: If i'm changing x then how much y is changing respected to x
 InterCept: From which point the y is started
+
+
+h[Theta(x)] is .pdf notes refer to => y[Predicted(x)]
+Theta(1).x => mx
+Theta(0) => b
+
+So.
+h[Theta(x)] = Theta(1).x + Theta(0)
+y = mx + b
